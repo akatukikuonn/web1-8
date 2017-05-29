@@ -47,13 +47,6 @@ body{
   padding:10px 5px;
 }
 
-div.img#home{ background-position:0 0px;}
-div.img#story{ background-position:0 -46px;}
-div.img#character{ background-position:0 -92px;}
-div.img#sistem{ background-position:0 -148px;}
-div.img#link{ background-position:0 -184px;}
-div.img#faq{ background-position:0 -216px;}
-
 #gnav a:hover{
   background:lightcyan;
   color: blue;
@@ -79,6 +72,13 @@ div.img#faq{ background-position:0 -216px;}
 #gnav li:first-child{
   border-left: white 1px solid;
 }
+
+div.img#home{ background-position:0 0px;}
+div.img#story{ background-position:0 -46px;}
+div.img#character{ background-position:0 -92px;}
+div.img#sistem{ background-position:0 -148px;}
+div.img#link{ background-position:0 -184px;}
+div.img#faq{ background-position:0 -216px;}
 
 .breadcrumbs li{
   display: inline;
