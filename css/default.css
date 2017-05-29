@@ -73,7 +73,7 @@ body{
   border-left: white 1px solid;
 }
 
-div.img#home{ background-position:0 0px;}
+div.img#home{ background-position:5 5px;}
 div.img#story{ background-position:0 -46px;}
 div.img#character{ background-position:0 -92px;}
 div.img#sistem{ background-position:0 -148px;}
