@@ -73,10 +73,10 @@ body{
 
 div.img#home{ background-position:0 0px;}
 div.img#story{ background-position:0 -46px;}
-div.img#character{ background-position:0 -92px;}
-div.img#sistem{ background-position:0 -148px;}
-div.img#link{ background-position:0 -184px;}
-div.img#faq{ background-position:0 -216px;}
+div.img#character{ background-position:0 -84px;}
+div.img#sistem{ background-position:0 -120px;}
+div.img#link{ background-position:0 -186px;}
+div.img#faq{ background-position:0 -200px;}
 
 .breadcrumbs li{
   display: inline;
