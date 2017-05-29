@@ -4,6 +4,15 @@ body{
   background-color:turquoise;
 }
 
+#logo ul{
+  overflow: hidden;
+  list-style-type: none;
+}
+
+#logo img{
+  width: 100px;
+}
+
 #gnav a {
   display: block;
   padding:10px 0;
