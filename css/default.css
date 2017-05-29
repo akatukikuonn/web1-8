@@ -4,6 +4,20 @@ body{
   background-color:turquoise;
 }
 
+#gnav a {
+  display: block;
+  padding:10px 0;
+  text-align: center;
+  text-decoration: none;
+  background:aqua;
+  color:white;
+}
+
+#gnav a:hover{
+  background:lightcyan;
+  color: blue;
+}
+
 #gnav ul{
   overflow: hidden;
 }
