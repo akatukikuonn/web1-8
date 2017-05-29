@@ -54,31 +54,7 @@ div.img#sistem{ background-position:0 -148px;}
 div.img#link{ background-position:0 -184px;}
 div.img#faq{ background-position:0 -216px;}
 
-#gnav a:hover{
-  background:lightcyan;
-  color: blue;
-}
 
-#gnav a.selected{
-  background: white;
-  color: darkblue;
-  font-weight: bold;
-}
-
-#gnav ul{
-  overflow: hidden;
-}
-
-#gnav li{
-  float: left;
-  width: 156px;
-  border-right: white 1px solid;
-  list-style-type: none;
-}
-
-#gnav li:first-child{
-  border-left: white 1px solid;
-}
 
 .breadcrumbs li{
   display: inline;
