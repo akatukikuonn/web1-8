@@ -49,9 +49,10 @@ body{
 
 div.img#home{ background-position:0 0px;}
 div.img#story{ background-position:0 -46px;}
-div.img#chracter{ background-position:0 -92px;}
+div.img#character{ background-position:0 -92px;}
 div.img#sistem{ background-position:0 -148px;}
-div.img#faq{ background-position:0 -184px;}
+div.img#link{ background-position:0 -184px;}
+div.img#faq{ background-position:0 -216px;}
 
 #gnav a:hover{
   background:lightcyan;
